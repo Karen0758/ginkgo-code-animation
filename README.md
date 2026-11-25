@@ -4,6 +4,8 @@ Editable 2D motion-graphics code animations in the Ginkgo / 公益人才图谱 v
 
 This repository is a Codex skill, not a rendered video project. It packages the visual rules, motion recipes, workflow, review checklist and a runnable Remotion starter.
 
+Chinese usage prompt to paste into an AI: [USAGE.zh.md](USAGE.zh.md).
+
 ## What is included
 
 | Path | Contents |
